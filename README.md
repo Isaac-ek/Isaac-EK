@@ -17,7 +17,7 @@ With a background spanning full-stack application development, freelance web des
 
 ### 🚀 Featured Production Builds
 
-#### 📁 [Indie CRM](https://github.com/Isaac-ek?tab=repositories#:~:text=Star-,Indie%2DCRM,-Public) 
+#### 📁 [Indie CRM](https://github.com/Isaac-ek/Indie-CRM) 
 *A robust, multi-tenant CRM application designed for solo operators and small teams.*
 - **Tech Stack:** Node.js, Python, PostgreSQL, Docker, AWS EC2
 - **Key Features:** Implemented role-based access control (RBAC), optimized relational database queries, and deployed via containerized environments behind secure AWS network configurations.
