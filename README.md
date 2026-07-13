@@ -17,12 +17,12 @@ With a background spanning full-stack application development, freelance web des
 
 ### 🚀 Featured Production Builds
 
-#### 📁 [Indie CRM](https://github.com/Isaac-ek) *(Update with your actual repo link)*
+#### 📁 [Indie CRM](https://github.com/Isaac-ek?tab=repositories#:~:text=Star-,Indie%2DCRM,-Public) 
 *A robust, multi-tenant CRM application designed for solo operators and small teams.*
 - **Tech Stack:** Node.js, Python, PostgreSQL, Docker, AWS EC2
 - **Key Features:** Implemented role-based access control (RBAC), optimized relational database queries, and deployed via containerized environments behind secure AWS network configurations.
 
-#### 📁 [AWS Serverless Image Labels Generator](https://github.com/Isaac-ek) *(Update with your actual repo link)*
+#### 📁 [AWS Serverless Image Labels Generator](https://github.com/Isaac-ek) 
 *An event-driven, cloud-native computer vision pipeline.*
 - **Tech Stack:** Python, AWS Lambda, Amazon S3, Amazon Rekognition, Terraform
 - **Key Features:** Engineered a fully serverless backend triggered automatically by cloud storage events, optimized using the principle of least-privilege IAM configurations, and codified entirely via Infrastructure as Code (IaC).
